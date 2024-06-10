@@ -1,0 +1,2 @@
+C:\Users\Administrator\AndroidStudioProjects\AndroidModMenu\app\src\main\jni\Android.mk
+C:\Users\Administrator\AndroidStudioProjects\AndroidModMenu\app\src\main\jni\Application.mk

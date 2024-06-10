@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 16 min SDK version: x86",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -222477076
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\build\\.cxx\\Release\\6i4g2843\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1665290679
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 217313243
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\build\\.cxx\\Release\\6i4g2843\\x86\u0027",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1081199845
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\build\\.cxx\\Release\\6i4g2843\\x86\u0027",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -2119878105
+  },
+  {
+    "level_": 0,
+    "message_": "executing ndkBuild @echo off\n\"C:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dC:\\\\Users\\\\Administrator\\\\AndroidStudioProjects\\\\AndroidModMenu\\\\app\\\\src\\\\main\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dC:\\\\Users\\\\Administrator\\\\AndroidStudioProjects\\\\AndroidModMenu\\\\app\\\\src\\\\main\\\\jni\\\\Application.mk\" ^\n  \"APP_ABI\u003dx86\" ^\n  \"NDK_ALL_ABIS\u003dx86\" ^\n  \"NDK_DEBUG\u003d0\" ^\n  \"APP_PLATFORM\u003dandroid-16\" ^\n  \"NDK_OUT\u003dC:\\\\Users\\\\Administrator\\\\AndroidStudioProjects\\\\AndroidModMenu\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Release\\\\6i4g2843/obj\" ^\n  \"NDK_LIBS_OUT\u003dC:\\\\Users\\\\Administrator\\\\AndroidStudioProjects\\\\AndroidModMenu\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Release\\\\6i4g2843/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -85389009
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\Administrator\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\ndk-build.cmd\" ^\n  \"NDK_PROJECT_PATH\u003dnull\" ^\n  \"APP_BUILD_SCRIPT\u003dC:\\\\Users\\\\Administrator\\\\AndroidStudioProjects\\\\AndroidModMenu\\\\app\\\\src\\\\main\\\\jni\\\\Android.mk\" ^\n  \"NDK_APPLICATION_MK\u003dC:\\\\Users\\\\Administrator\\\\AndroidStudioProjects\\\\AndroidModMenu\\\\app\\\\src\\\\main\\\\jni\\\\Application.mk\" ^\n  \"APP_ABI\u003dx86\" ^\n  \"NDK_ALL_ABIS\u003dx86\" ^\n  \"NDK_DEBUG\u003d0\" ^\n  \"APP_PLATFORM\u003dandroid-16\" ^\n  \"NDK_OUT\u003dC:\\\\Users\\\\Administrator\\\\AndroidStudioProjects\\\\AndroidModMenu\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Release\\\\6i4g2843/obj\" ^\n  \"NDK_LIBS_OUT\u003dC:\\\\Users\\\\Administrator\\\\AndroidStudioProjects\\\\AndroidModMenu\\\\app\\\\build\\\\intermediates\\\\cxx\\\\Release\\\\6i4g2843/lib\" ^\n  \"APP_SHORT_COMMANDS\u003dfalse\" ^\n  \"LOCAL_SHORT_COMMANDS\u003dfalse\" ^\n  -B ^\n  -n\n",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -62931332
+  },
+  {
+    "level_": 0,
+    "message_": "parse and convert ndk-build output to build configuration JSON",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 857131957
+  },
+  {
+    "level_": 0,
+    "message_": "found application make file C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Application.mk",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2132624104
+  },
+  {
+    "level_": 0,
+    "message_": "done executing ndkBuild",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1572988773
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "C:\\Users\\Administrator\\AndroidStudioProjects\\AndroidModMenu\\app\\src\\main\\jni\\Android.mk",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -254625193
+  }
+]
